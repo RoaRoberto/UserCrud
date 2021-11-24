@@ -41,7 +41,7 @@ Modificar el archivo appsettings.json
  
  ```sh
 	 "ConnectionStrings": {
-    "myconn": "Server=eyz.database.windows.net;Database=EZ;User Id=AdminV2;Password=abc123$$"
+    "myconn": "Server=eyz.xxxxxxx;Database=EZ;User Id=AdminV2;Password=abc123$$"
   }
 ```
 
